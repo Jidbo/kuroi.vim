@@ -23,7 +23,7 @@ let g:colors_name = "kuroi"
 
 let s:palette = {'gui' : {} , 'cterm' : {}}
 
-let s:gui_background = "#1b1918"
+let s:gui_background = "#1a1d1c"
 let s:gui_foreground = "#c5c8c6"
 let s:gui_selection  = "#373b41"
 let s:gui_line       = "#282a2e"
